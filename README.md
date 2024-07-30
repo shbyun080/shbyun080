@@ -1,8 +1,10 @@
 ### Great to see you here :D
 
-🚪 My research topics are **Digital Twin** and **3D Segmentation**
+🚪 My research topics are **Digital Twin** and **3D Segmentation**.
 
 ☎️ I love to discuss anything computer vision. Reach out!
+
+🥇 Best config is yaml (no offense if you disagree).
 
 ❌ Not active on GitHub, my work is often affiliated. Message me on LinkedIn to chat.
 
@@ -21,8 +23,5 @@
 
 ### My Favorite
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,obsidian,vscode,sublime,github,gitlab,stackoverflow,latex)](https://skillicons.dev)
-
-### Best config (Just my opinion, no offense :P)
-[![My Skills](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=shbyun080&style=plastic&color=red&label=views&abbreviated=true)

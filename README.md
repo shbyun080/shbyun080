@@ -6,6 +6,8 @@
 
 🥇 Best config is yaml (no offense).
 
+🏋️ Hobby? I lift.
+
 ❌ Not active on GitHub, my work is often affiliated. Message me on LinkedIn to chat.
 
 ### Current Affiliation

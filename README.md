@@ -4,7 +4,7 @@
 
 ☎️ I love to discuss anything computer vision. Reach out!
 
-🥇 Best config is yaml (no offense if you disagree).
+🥇 Best config is yaml (no offense).
 
 ❌ Not active on GitHub, my work is often affiliated. Message me on LinkedIn to chat.
 

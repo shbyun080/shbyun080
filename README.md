@@ -4,7 +4,7 @@
 
 ☎️ I love to discuss anything computer vision. Reach out!
 
-❌ NOT ACTIVE on GitHub, my work is often affiliated. Message me on LinkedIn for a chat.
+❌ Not active on GitHub, my work is often affiliated. Message me on LinkedIn to chat.
 
 ### Current Affiliation
 - AI Research @ LG

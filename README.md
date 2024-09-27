@@ -8,6 +8,8 @@
 
 ❌ Not active on GitHub, my work is often affiliated. Message me on LinkedIn to chat.
 
+### [Google Scholar](https://scholar.google.com/citations?user=O92eoikAAAAJ&hl=en)
+
 ### Current Affiliation
 - AI Research @ LG
 - MSCS @ USC

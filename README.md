@@ -1,10 +1,8 @@
 ### Great to see you here :D
 
-🚪 My research topics are **Digital Twin** and **3D Segmentation**.
+🚪 My research topics are **Digital Twin** and **3D Photogrammetry**.
 
 ☎️ I love to discuss anything computer vision. Reach out!
-
-🥇 Best config is yaml (no offense).
 
 🏋️ Hobby? I lift.
 

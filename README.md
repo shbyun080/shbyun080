@@ -1,6 +1,6 @@
 ### Great to see you here :D
 
-🚪 My research topics are **Digital Twin** and **3D Photogrammetry**.
+🚪 My research topics are **Digital Twin**, **3D Photogrammetry**, and **Networks on Edge**.
 
 ☎️ I love to discuss anything computer vision. Reach out!
 

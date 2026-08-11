@@ -27,3 +27,5 @@
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,obsidian,vscode,sublime,github,gitlab,stackoverflow,latex)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=shbyun080&style=plastic&color=red&label=views&abbreviated=true)
+
+Last Update: June 2024

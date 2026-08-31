@@ -1,24 +1,31 @@
-### Great to see you here :D
-
-🚪 My research topics are **Digital Twin**, **3D Photogrammetry**, and **Networks on Edge**.
-
-☎️ I love to discuss anything computer vision. Reach out!
-
-🏋️ Hobby? I lift.
-
-❌ Not active on GitHub, my work is often affiliated. Message me on LinkedIn to chat.
+### Research Topic - Perception (AI + Graphics + Vision)
+- Computer Graphics
+  - Neural Rendering (BRDF, Neural Texture, Super Resolution, Frame Generation)
+  - 3D/4D Reconstructions (GSSplat, NeRF, SDF, etc.)
+- Efficient AI
+  - LLM/VLM Compression (KV Cache, PTQ)
+  - Compressed Learning Representation
+  - HW/SW Co-optimization (Tensorcore)
+- Computer Vision
+  - Scene Understanding
+  - Visual Representations
 
 ### [Google Scholar](https://scholar.google.com/citations?user=O92eoikAAAAJ&hl=en)
 
 ### Current Affiliation
-- AI Research @ LG
-- MSCS @ USC
+- AI Researcher @ LG
+- Ph.D. Student @ University of Cambridge
 
 ### Past Affiliation
-- Research Assitant @ USC
-- Researcher @ UCI
+- Graduate Research Assistant @ USC
+- Undergraduate Researcher @ UCI
 - Technical CFO @ Foodpool
 - SDE Intern @ Optum
+
+### Education
+- Ph.D. CS  @ University of Cambridge
+- M.S.  CS  @ USC
+- B.S.  CSE @ UCI
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,threejs,cpp,c,docker,cmake,bash,r,rust,mongodb,firebase,aws,mysql,express,nodejs,html,js)](https://skillicons.dev)
@@ -28,4 +35,4 @@
 
 ![](https://komarev.com/ghpvc/?username=shbyun080&style=plastic&color=red&label=views&abbreviated=true)
 
-Last Update: June 2024
+Last Update: July 2026
